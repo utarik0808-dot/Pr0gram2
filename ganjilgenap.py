@@ -5,4 +5,4 @@ if bil % 2 == 0:
 else:
     print(bil,"Adalah ganjil")
 
-print("Kode ini saya buat menggunakan codespace")
+print("Kode ini perubahan pertama ( modify )")
